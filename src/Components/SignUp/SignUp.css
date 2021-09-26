@@ -1,0 +1,114 @@
+.createAcc {
+  position: absolute;
+  width: 130px;
+  height: 23px;
+  left: 20px;
+  top: 22px;
+  margin: 0;
+  font-family: IBM Plex Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 23px;
+  color: #000000;
+}
+
+.container {
+  position: relative;
+}
+
+.closeBtn {
+  position: absolute;
+  right: 22px;
+  top: 24px;
+  cursor: pointer;
+}
+
+.input {
+  position: absolute;
+  width: 320px;
+  height: 157px;
+  left: 0;
+  right: 0;
+  top: 65px;
+  margin: 0 auto;
+}
+
+.createAccBtn {
+  position: absolute;
+  width: 150px;
+  height: 36px;
+  left: 0;
+  right: 0;
+  top: 244px;
+  margin-left: 17%;
+
+  background: #2f6ce5;
+  border-radius: 20px;
+}
+
+.fbSignUp {
+  position: absolute;
+  width: 320px;
+  height: 38px;
+  left: 0;
+  right: 0;
+  top: 302px;
+  margin: 0 auto;
+  background: #ffffff;
+  border: 0.6px solid #d9d9db;
+  box-sizing: border-box;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.googleSignUp {
+  position: absolute;
+  width: 320px;
+  height: 38px;
+  left: 0;
+  right: 0;
+  top: 352px;
+  margin: 0 auto;
+  background: #ffffff;
+  border: 0.6px solid #d9d9db;
+  box-sizing: border-box;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.terms {
+  transform: translateY(1500%);
+}
+
+.signIn {
+  position: absolute;
+  width: 60px;
+  height: 17px;
+  right: 0;
+  margin-right: 17%;
+  top: 254px;
+  cursor: pointer;
+  font-family: IBM Plex Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 17px;
+  /* identical to box height */
+  cursor: pointer;
+  text-align: center;
+  text-decoration-line: underline;
+
+  color: #495057;
+}
+
+.image {
+  width: 736px;
+}
+
+.cross {
+  position: absolute;
+  top: -23px;
+  right: 10px;
+  cursor: pointer;
+}
